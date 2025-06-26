@@ -1,0 +1,11 @@
+{
+  "name": "shadowgpt",
+  "version": "1.0.0",
+  "main": "shadowgpt-server.js",
+  "scripts": {
+    "start": "node shadowgpt-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
